@@ -1,2 +1,2 @@
 # matplotlib_Homework
-This is a readme What a nice README!
+I had a lot of fun putting together this data. Enjoy!
